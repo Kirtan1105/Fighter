@@ -40,10 +40,10 @@ If you wish to deploy the model, you can use the trained RandomForestClassifier.
 
 # Author
 
-Kirtan1105
+https://github.com/Kirtan1105
 
 # license
-This project is licensed under MIT License.
+Open source
 
 # Acknowledgement
 The Titanic dataset is obtained from Kaggle: Titanic: Machine Learning from Disaster
